@@ -1,0 +1,13 @@
+body {
+  font-family: Palatino;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  display: inline-block;
+  background-color: lightblue;
+  margin: 10px;
+}
